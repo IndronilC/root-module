@@ -1,0 +1,3 @@
+[submodule "newrepository-submodule"]
+	path = newrepository-submodule
+	url = https://github.com/IndronilC/newrepository-submodule.git
